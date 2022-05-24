@@ -1,4 +1,4 @@
-### Hi, I'm Depnolt!  
+## Hi, I'm Depnolt!  
 - 🔭 I’m currently work with JavaScript.
 - 🌱 I’m currently learning TypeScript.
 - 📫 You can reach me by Discord: Depnolt#4106 
